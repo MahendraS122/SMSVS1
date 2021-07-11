@@ -25,7 +25,7 @@ class Main:
 
 
 """)
-		pilih=int(input('PILIH NOMER BRAPA SYNG:)=}> '))
+		pilih=int(input('PILIH NOMER BRAPA SYNG:)=}>'))
 		if pilih == 1:
 			import src.payu
 		elif pilih == 2:
