@@ -18,8 +18,8 @@ class Main:
 \033[1;32mYOUTUBE \033[1;31m : \033[1;0mTUTORIAL UTAMA
 --------------------------------------
 
-1. SMS Gratis
-2. OTP Hallodok
+\033[1;35m1. SMS FREE 
+2. SPAM SMS
 
 \033[1;31m𝗦𝗔𝗕𝗔𝗥 𝗣𝗜𝗟𝗜𝗛 𝗡𝗬𝗔 𝗞𝗔𝗞 🥺
 
